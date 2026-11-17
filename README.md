@@ -1,3 +1,1 @@
-# Game Drop
-
-GitHub Pages frontend for Game Drop. Downloads and community uploads are served by the existing Game Drop backend.
+This is game drop, it has the downloads for things that are blocked, some downloads might be blocked on the specific laptop you are on, 
